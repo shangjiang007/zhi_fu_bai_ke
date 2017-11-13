@@ -6,7 +6,7 @@
 * [委托代付](wei-tuo-dai-fu.md)
 * [网上支付](wang-shang-zhi-fu.md)
 * [担保支付](dan-bao-zhi-fu.md)
-* 代收业务
+* [代收业务](dai-shou-ye-wu.md)
 * [扫码支付](sao-ma-zhi-fu.md)
 * [业务规则](ye-wu-gui-ze.md)
 
