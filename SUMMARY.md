@@ -7,6 +7,6 @@
 * [网上支付](wang-shang-zhi-fu.md)
 * [担保支付](dan-bao-zhi-fu.md)
 * 代收业务
-* 扫码支付
+* [扫码支付](sao-ma-zhi-fu.md)
 * [业务规则](ye-wu-gui-ze.md)
 
