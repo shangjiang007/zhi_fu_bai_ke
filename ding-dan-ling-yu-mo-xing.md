@@ -10,11 +10,9 @@
 
 币种（currency）：
 
-订单时间（orderTime）：
+订单创建时间（orderTime）：
 
 订单超时时间（orderTimeOut）：
 
 折扣金额（discAmt）：
-
-
 
