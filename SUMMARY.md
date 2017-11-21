@@ -10,4 +10,5 @@
 * [扫码支付](sao-ma-zhi-fu.md)
 * [业务规则](ye-wu-gui-ze.md)
 * [用户领域模型](yong-hu-ling-yu-mo-xing.md)
+* [银行卡领域模型](yin-xing-qia-ling-yu-mo-xing.md)
 
