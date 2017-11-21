@@ -14,9 +14,9 @@
 
 联行行号（UnitedBankNumber）：是一个地区银行的唯一识别标志，用于跨区域银行间的结算和资金清算
 
-开户行行名（bankName）：
+开户行行名（bankName）：开户银行名称
 
-开户城市编码（cityNumber）：
+开户城市编码（cityNumber）：开户银行所在城市的编号
 
-开户省份编号（provNumber）：
+开户省份编号（provNumber）：开户银行所在省份的编号
 
