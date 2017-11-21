@@ -4,7 +4,7 @@
 
 银行编号（bankCode）：用于标识银行的唯一ID
 
-银行卡BIN（bankCardBin）：银行标识代码
+银行卡BIN（bankCardBin）：银行标识代码，英文全称是 Bank Identification Number
 
 卡类型（bankCardType）：01：银行卡
 
