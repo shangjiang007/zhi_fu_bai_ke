@@ -17,4 +17,5 @@
 * [订单领域模型](ding-dan-ling-yu-mo-xing.md)
 * [账户领域模型](zhang-hu-ling-yu-mo-xing.md)
 * [密码域模型](mi-ma-yu-mo-xing.md)
+* 杂域
 
